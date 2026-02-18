@@ -9,7 +9,7 @@ I’m a researcher and analyst with a background in **data-driven policy** and a
 - Applied data analysis in Python (scraping, PDF/table extraction, cleaning pipelines)
 - Policy for emerging technologies (AI, synthetic biology, dual-use tech)
 
-## My experience:
+## My experience
 
 - **Contract Researcher @ Washington CORE** (2024– )  
   Policy and technology analysis for corporate and government clients, focusing on synthetic DNA regulation, U.S.–China tech decoupling, and federal AI and emerging tech initiatives (DoD, NSF, DoS). Also contribute to Insights pieces on executive orders, infrastructure, energy, and supply-chain risk.
